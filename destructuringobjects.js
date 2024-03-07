@@ -9,7 +9,6 @@ const mascota = {
 const {nombre, raza} = mascota
 console.log(nombre, raza)
 
-
 const web = {
     nombre: 'google',
     links:  {
@@ -26,5 +25,10 @@ const web = {
         larry: 'Larry Page'
     }
 }
-
 console.log(web.links.pais.alemania)
+
+const japon = web.links.pais.japon
+console.log(japon)
+
+const {larry, serguei} =  web.creadores
+console.log(larry, serguei)
