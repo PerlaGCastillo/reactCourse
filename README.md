@@ -1,2 +1,10 @@
 # reactCourse
-curso de React JS + Next JS 14 https://t.ly/oGdVN
+
+fundamentos de react + vite
+
+
+```
+extensiones 
+volar, es7 react js snippets, mateicon theme, nu-disco theme
+```
+ https://t.ly/oGdVN
